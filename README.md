@@ -61,7 +61,3 @@ Para rodar o projeto localmente, você precisará ter instalado:
 ## 📜 Licença
 
 Este projeto foi desenvolvido para fins educacionais durante a NLW da Rocketseat.
-
----
-
-Se tiver dúvidas ou sugestões, fique à vontade para contribuir! 🚀
